@@ -1,0 +1,5 @@
+streamlit
+onnxruntime==1.18.1        
+opencv-python-headless==4.9.0.80
+numpy
+Pillow
